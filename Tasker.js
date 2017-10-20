@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Text, StyleSheet, View, Button } from 'react-native';
 import Todo from './Todo.js';
 import { TitledInput } from './TitledInput.js';
-import App from './App';
 
 export default class Tasker extends Component {
   state = {

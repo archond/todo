@@ -1,5 +1,4 @@
 import * as firebase from 'firebase';
-import Config from 'react-native-config';
 import Tasker from './Tasker.js';
 import fireConf from './firebaseconfig';
 import React, { Component } from 'react';
